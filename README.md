@@ -1,8 +1,8 @@
 - 👋 I’m @esytyse
 - I'm 👀 in cybersecurity and cloud
-- I'm 🌱 in cybersecurity and cloud
-- I will love to 💞️ on cybersecurity and cloud
-- 📫 ping me nowowow
+- I enjoy 🌱 in cybersecurity and cloud
+- I am loving 💞️ cybersecurity and cloud
+- now-you-see-me- 📫 ping me nowowow
 
 <!---
 esytyse/esytyse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
