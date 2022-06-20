@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @esytyse
-- 👀 I’m interested in cybersecurity and cloud
-- 🌱 I’m currently learning cybersecurity and cloud
-- 💞️ I’m looking to collaborate on anything related to cybersecurity and cloud
+- 👋 I’m @esytyse
+- I'm 👀 in cybersecurity and cloud
+- I'm 🌱 in cybersecurity and cloud
+- I will love to 💞️ on cybersecurity and cloud
 - 📫 ping me nowowow
 
 <!---
