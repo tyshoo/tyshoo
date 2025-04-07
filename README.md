@@ -1,8 +1,6 @@
-- 👋 I’m @tyshoo
-- I'm 👀 in cybersecurity and cloud
-- I enjoy 🌱 in cybersecurity and cloud
-- I am loving 💞️ cybersecurity and cloud
-- now-you-see-me- 📫 ping me nowowow
+- 👋 
+- This is my github.
+- Passion projects and the likes - let's grow in this very, very exciting era!
 
 <!---
 tyshoo/tyshoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
